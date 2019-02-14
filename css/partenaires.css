@@ -1,0 +1,21 @@
+/* Facts Section
+--------------------------------*/
+#facts {
+    background: #fafafa;
+    padding: 80px 0 60px 0;
+    height: 40vh;
+}
+  
+.counters{
+    display: flex;
+    margin-top: 5vh;
+    justify-content: space-around;
+} 
+
+.text-center h2{
+    color: #030303;
+}
+
+.facc{
+    width: 80%;
+}
