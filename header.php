@@ -22,7 +22,7 @@
         <div class="container">
 
             <div id="logo" class="pull-left">
-                <a href="#hero"><img class="DG" src="<?= get_stylesheet_directory_uri(); ?>/img/dg2.png" alt="" title="" /></img></a>
+                <a href="#hero"><img class="DG" src="<?= get_stylesheet_directory_uri(); ?>/img/dg2.png" alt="" title="" /></a>
                 <!-- Uncomment below if you prefer to use a text logo -->
                 <!-- <h1><a href="#hero">DG Concept</a></h1> -->
             </div>
